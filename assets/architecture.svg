@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240">
+<rect width="1000" height="240" fill="#0b1220"/>
+<g fill="#152238" stroke="#3b82f6" stroke-width="2">
+<rect x="30" y="90" width="140" height="60" rx="10"/><rect x="220" y="90" width="140" height="60" rx="10"/>
+<rect x="410" y="90" width="140" height="60" rx="10"/><rect x="600" y="90" width="170" height="60" rx="10"/>
+<rect x="820" y="90" width="140" height="60" rx="10"/></g>
+<g fill="#e5e7eb" font-family="Arial" font-size="20">
+<text x="52" y="127">Market Data</text><text x="247" y="127">Features</text>
+<text x="432" y="127">PROPR</text><text x="617" y="127">PROPR-NN Memory</text><text x="865" y="127">Execution</text>
+</g>
+<g stroke="#94a3b8" stroke-width="3">
+<line x1="170" y1="120" x2="220" y2="120"/><line x1="360" y1="120" x2="410" y2="120"/>
+<line x1="550" y1="120" x2="600" y2="120"/><line x1="770" y1="120" x2="820" y2="120"/></g>
+</svg>
