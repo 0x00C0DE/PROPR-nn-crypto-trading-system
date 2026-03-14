@@ -4,8 +4,6 @@ Adaptive **Python** trading engine for cryptocurrency markets using **Predictive
 
 ![GUI Preview](assets/gui_preview.png)
 
-![Live GUI Demo](assets/demo_live_gui.gif)
-
 ![Performance Dashboard](assets/performance_dashboard.png)
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
